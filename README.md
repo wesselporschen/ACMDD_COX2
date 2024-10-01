@@ -9,6 +9,8 @@ The Jupyter notebooks containing the workflows are largely adapted from https://
 3. Docking: using AutoDock Vina to perform molecular docking of (salicylic acid-like) ligands on an experimental structure of COX-2 (PDB: *5F1A*). 
 4. Docking with AlphaFold: performing molecular docking on a COX-2 structure produced by the AlphaFold 2 model, and using interaction fingerprints (Prolif) validate docking results.
 
+Ideally, to prevent any missing file / directory errors, the notebooks should be run in the order described above.
+
 ## Contributions
 - [Marnix Dijkman](https://github.com/M-Dijkman) (s2787504)
 - [Nienke Kalverboer](https://github.com/NienkeBOO2024) (s2902893)
