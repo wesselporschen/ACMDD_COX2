@@ -1,0 +1,13 @@
+ligand_code,beschrijving,SMILES,Vina_Affinity,Vina_pCHEMBL,ML_pCHEMBL
+ligand_00,sal,OC1=CC=CC=C1C(O)=O,-5.755,4.22,4.92
+ligand_02,"sal alt, pyridine en methoxy pose 4",O=C(O)C1=CC=NC=C1OC,-4.656,3.42,5.56
+ligand_03,sal alt extra ring pose 0,OC1=CC=C2C(C=CC2)=C1C(O)=O,-5.81,4.26,5.47
+ligand_04,phtalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O,-5.332,3.91,4.93
+ligand_05,sal alt met N ipv O (aminobenzeenzuur),NC1=CC=CC=C1C(O)=O,-5.476,4.02,5.06
+ligand_05,sal alt met N ipv O (aminobenzeenzuur),NC1=CC=CC=C1C(O)=O,-5.476,4.02,5.06
+ligand_11,sal met extra ring en een S op de zuur groep,NS(=O)c2c(O)ccc1CC=Cc12,-5.466,4,5.49
+ligand_12,sal met extra ring en een stikstof op een n groep,NC(=O)c1c(O)ccc2occc12,-5.315,3.9,4.82
+ligand_13,"sal met extra ring, een N op een O groep en de zuur groep vervangen door een O",Nc2ccc1CC=Cc1c2C(=O),-5.781,4.24,5.59
+ligand_20,sal alt met carbimidic acid en extra ring (pose 2) ,OC1=CC=C2C(C=CC2)=C1C(O)=N,-5.252,3.85,5.16
+ligand_21,"sal alt met fluoride, methyl (pose2)",OC1=CC(C)=C(F)C=C1C(O)=O,-4.536,3.33,5.26
+ligand_22,sal alt met di fluoride (pose 0),OC1=CC(F)=C(F)C=C1C(O)=O,-5.198,3.81,5.22

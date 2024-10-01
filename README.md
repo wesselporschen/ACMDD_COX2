@@ -10,10 +10,10 @@ The Jupyter notebooks containing the workflows are largely adapted from https://
 4. Docking with AlphaFold: performing molecular docking on a COX-2 structure produced by the AlphaFold 2 model, and using interaction fingerprints (Prolif) validate docking results.
 
 ## Contributions
-- [Marnix Dijkman](https://github.com/M-Dijkman)
-- [Nienke Kalverboer](https://github.com/NienkeBOO2024)
-- [Sebastiaan Molenaar](https://github.com/berryblue-13)
-- [Wessel Porschen](https://github.com/wesselporschen)
-- [Thijmen Roos](https://github.com/thijmino)
+- [Marnix Dijkman](https://github.com/M-Dijkman) (s2787504)
+- [Nienke Kalverboer](https://github.com/NienkeBOO2024) (s2902893)
+- [Sebastiaan Molenaar](https://github.com/berryblue-13) (s2865300)
+- [Wessel Porschen](https://github.com/wesselporschen) (s2004267)
+- [Thijmen Roos](https://github.com/thijmino) (s2861704)
 
 We thank Dr. W Jespers for teaching this course and assistance during the assignment.
